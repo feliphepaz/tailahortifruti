@@ -1,0 +1,89 @@
+/* SOBRE */
+
+.intro-interno-local {
+  background: url("../img/bg_local.png") no-repeat center center;
+  background-size: cover;
+}
+
+.local .container {
+  flex-direction: column;
+}
+
+.local-content {
+  display: flex;
+  margin-top: 60px;
+}
+
+.local-content img {
+  max-width: none;
+  margin-bottom: 30px;
+}
+
+.local-info {
+  margin-left: 30px;
+  position: relative;
+}
+
+.local-info p {
+  margin-bottom: 15px;
+}
+
+.local-contato {
+  position: absolute;
+  left: -30px;
+  padding: 10px 0px 10px 30px;
+  background: #f18934;
+  border-radius: 0px 5px 5px 0px;
+}
+
+.local-contato .endereço {
+  font-weight: bold;
+}
+
+.local-contato .subtitulo {
+  font-style: normal;
+  margin-bottom: 0px;
+  padding: 0px 2px;
+  color: #242424;
+}
+
+.local-contato .subtitulo:hover {
+  border-radius: 5px;
+  background: #ca732c;
+}
+
+.local-info .horario {
+  margin: 15px 0 15px 0;
+}
+
+.mapa {
+  margin-bottom: 90px;
+}
+
+@media (max-width: 980px) {
+  .local-content img {
+    max-width: 100%;
+  }
+  .local-info {
+    max-width: 50%;
+  }
+  .local-contato {
+    position: static;
+    padding: 10px;
+    border-radius: 0px;
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  .local-content {
+    flex-direction: column;
+  }
+  .local-info {
+    max-width: 100%;
+    margin-left: 0px;
+  }
+  .local {
+    padding: 0 10px;
+  }
+}

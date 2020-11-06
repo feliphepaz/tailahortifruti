@@ -1,0 +1,63 @@
+/* SOBRE */
+
+.intro-interno-sobre {
+  background: url("../img/bg_sobre.png") no-repeat center center;
+  background-size: cover;
+}
+
+.sobre .container {
+  flex-direction: column;
+}
+
+.sobre-content {
+  display: flex;
+  margin: 60px 0 90px 0;
+}
+
+.historia {
+  margin-right: 10px;
+}
+
+.donos {
+  text-align: center;
+  background: linear-gradient(180deg, #f18934 0%, #242424 100%);
+  padding: 30px;
+  max-width: 450px;
+  color: #d6d6d6;
+}
+
+.donos h2 {
+  color: #d6d6d6;
+}
+
+.donos p {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.donos img {
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.historia p:last-child {
+  margin-top: 10px;
+}
+
+/* RESPONSIVO */
+
+@media (max-width: 600px) {
+  .sobre-content {
+    flex-wrap: wrap;
+  }
+  .historia {
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+  .sobre {
+    padding: 0 10px;
+  }
+  .donos {
+    margin: 0 auto;
+  }
+}
