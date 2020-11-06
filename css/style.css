@@ -746,6 +746,9 @@ button:hover {
 }
 
 @media (max-width: 402px) {
+  .menu-nav ul {
+    top: 60px;
+  }
   .barra-top {
     display: none;
   }
@@ -759,9 +762,6 @@ button:hover {
 }
 
 @media (max-width: 300px) {
-  .menu-nav ul {
-    top: 60px;
-  }
   .intro-content {
     flex-wrap: wrap;
   }
