@@ -1,9 +1,10 @@
 {
     "name": "Taila Horti Fruti",
     "short_name": "Taila Horti Fruti",
-    "theme_color": "#2a0044",
-    "background_color": "#2a0044",
-    "display": "standalone",
+    "theme_color": "#F18934",
+    "background_color": "#F18934",
+    "scope": "/tailahortifruti/",
+    "display": "browser",
     "start_url": "https://feliphepaz.github.io/tailahortifruti/",
     "icons": [
       {
