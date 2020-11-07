@@ -1,10 +1,9 @@
 {
   "theme_color": "#F18934",
   "background_color": "#F18934",
-  "display": "standalone",
-  "scope": "/tailahortifruti/",
+  "display": "fullscreen",
   "start_url": "https://feliphepaz.github.io/tailahortifruti/",
-  "app_name": "Taila Horti Fruti",
+  "name": "Taila Horti Fruti",
   "short_name": "Taila Horti Fruti",
   "description" : "Descrição Teste",
   "icons": [
