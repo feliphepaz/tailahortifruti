@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "pt-br",
+    "name": "Taila Horti Fruti",
+    "short_name": "Taila Horti Fru",
+    "scope": "/tailahortifruti/",
+    "display": "browser",
+    "start_url": "https://feliphepaz.github.io/tailahortifruti/",
+    "background_color": "#000000",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://feliphepaz.github.io/tailahortifruti/",
+    "screenshots": []
+}
