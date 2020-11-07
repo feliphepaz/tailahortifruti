@@ -1,7 +1,7 @@
 {
   "theme_color": "#F18934",
   "background_color": "#F18934",
-  "display": "fullscreen",
+  "display" : "standalone",
   "start_url": "https://feliphepaz.github.io/tailahortifruti/",
   "name": "Taila Horti Fruti",
   "short_name": "Taila Horti Fruti",
