@@ -1,18 +1,15 @@
 {
-    "dir": "ltr",
-    "lang": "pt-br",
-    "name": "Taila Horti Fruti",
-    "short_name": "Taila Horti Fru",
-    "scope": "/tailahortifruti/",
-    "display": "browser",
-    "start_url": "https://feliphepaz.github.io/tailahortifruti/",
-    "background_color": "#000000",
-    "theme_color": "transparent",
-    "description": "",
-    "orientation": "any",
-    "related_applications": [],
-    "prefer_related_applications": false,
-    "icons": [],
-    "url": "https://feliphepaz.github.io/tailahortifruti/",
-    "screenshots": []
-}
+    "name": "AgilePoker",
+    "short_name": "AgilePoker",
+    "theme_color": "#2a0044",
+    "background_color": "#2a0044",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "../img/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
