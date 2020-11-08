@@ -1,16 +1,3 @@
-if ("serviceWorker" in navigator) {
-  window.addEventListener("load", () => {
-    navigator.serviceWorker
-      .register("/js/sw.js")
-      .then((reg) => {
-        console.log("Registrado nosso primeiro Service Worker", reg);
-      })
-      .catch((err) => {
-        console.log("Algo de errado aconteceu", err);
-      });
-  });
-}
-
 window.FontAwesomeKitConfig = {
   asyncLoading: { enabled: true },
   autoA11y: { enabled: true },
