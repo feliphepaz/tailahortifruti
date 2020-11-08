@@ -176,6 +176,9 @@ const resourcesToPrecache = [
   "/tailahortifruti/img/visa.png",
   "https://kit-free.fontawesome.com",
   "https://kit-free.fontawesome.com/releases/latest/css/free.min.css",
+  "https://kit-free.fontawesome.com/releases/latest/webfonts/free-fa-solid-900.woff2",
+  "https://kit-free.fontawesome.com/releases/latest/webfonts/free-fa-solid-900.woff",
+  "https://kit-free.fontawesome.com/releases/latest/webfonts/free-fa-solid-900.ttf",
 ];
 
 self.addEventListener("install", (event) => {
