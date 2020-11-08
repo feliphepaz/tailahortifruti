@@ -175,6 +175,7 @@ const resourcesToPrecache = [
   "/tailahortifruti/img/vagem.png",
   "/tailahortifruti/img/visa.png",
   "https://kit-free.fontawesome.com",
+  "https://kit-free.fontawesome.com/releases/latest/css/free.min.css",
 ];
 
 self.addEventListener("install", (event) => {
