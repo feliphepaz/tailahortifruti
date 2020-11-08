@@ -8,24 +8,16 @@
   "description" : "Descrição Teste",
   "icons": [
       {
-          "src": "../img/icon-192x192.png",
-          "sizes": "192x192",
-          "type": "image/png"
+          "src": "../img/icon-274x274.png",
+          "sizes": "274x274",
+          "type": "image/png",
+          "purpose": "any maskable"
       },
       {
-          "src": "../img/icon-256x256.png",
-          "sizes": "256x256",
-          "type": "image/png"
-      },
-      {
-          "src": "../img/icon-384x384.png",
-          "sizes": "384x384",
-          "type": "image/png"
-      },
-      {
-          "src": "../img/icon-512x512.png",
-          "sizes": "512x512",
-          "type": "image/png"
-      }
+        "src": "../img/icon-548x548.png",
+        "sizes": "548x548",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }
   ]
 }
