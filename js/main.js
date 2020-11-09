@@ -1,6 +1,6 @@
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker
-    .register("/tailahortifruti/js/sw.js", { scope: "/tailahortifruti/" })
+    .register("/tailahortifruti/sw.js", { scope: "/tailahortifruti/" })
     .then(function (reg) {
       if (reg.installing) {
         console.log("Service worker installing");
