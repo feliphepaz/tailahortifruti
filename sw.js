@@ -162,6 +162,8 @@ const resourcesToPrecache = [
   "/tailahortifruti/img/tag_verduras.png",
   "/tailahortifruti/img/taila_logo.svg",
   "/tailahortifruti/img/tapioca.png",
+  "/tailahortifruti/img/ana_maria.png",
+  "/tailahortifruti/img/edu_guedes.png",
   "/tailahortifruti/img/tomate.png",
   "/tailahortifruti/img/uva.png",
   "/tailahortifruti/img/vagem.png",

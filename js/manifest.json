@@ -3,9 +3,9 @@
   "background_color": "#F18934",
   "display" : "standalone",
   "start_url": "https://feliphepaz.github.io/tailahortifruti/",
-  "name": "Taila Horti Fruti",
+  "name": "Taila Horti Fruti | Hortifrúti de tradição e qualidade | tailahortifruti.com",
   "short_name": "Taila Horti Fruti",
-  "description" : "Descrição Teste",
+  "description" : "A Taila Horti Fruti é o melhor hortifrutigranjeiro do Jardim Monte Kemel. Frutas, legumes e verduras escolhidas a dedo.",
   "icons": [
       {
           "src": "../img/icon-274x274.png",
