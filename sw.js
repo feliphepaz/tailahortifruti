@@ -73,7 +73,6 @@ const resourcesToPrecache = [
   "/tailahortifruti/img/figo.png",
   "/tailahortifruti/img/file.png",
   "/tailahortifruti/img/filezinho.png",
-  "/tailahortifruti/img/foto_da_leia.png",
   "/tailahortifruti/img/framboesa.png",
   "/tailahortifruti/img/goiaba.png",
   "/tailahortifruti/img/graviola.png",
